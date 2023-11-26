@@ -1,4 +1,4 @@
-module github.com/nexusblock/polyproto
+module github.com/nexusblock/nexusproto
 
 go 1.18
 

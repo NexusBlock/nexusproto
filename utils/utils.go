@@ -3,7 +3,7 @@ package utils
 import (
 	"encoding/binary"
 
-	"github.com/nexusblock/polyproto/odin"
+	"github.com/nexusblock/nexusproto/odin"
 )
 
 func ConvertH160toAddress(h160 *odin.H160) [20]byte {
